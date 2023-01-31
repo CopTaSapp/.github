@@ -10,5 +10,5 @@ Ici vous pourrez trouver les annonces avec les meilleurs prix, qui viennent d'ê
 Bon séjour et bon voyage sur CTS !
 
 * `🔗` Invitation du serveur: discord.gg/cts
-* `🎵` TikTok: [@coptasapp](https://www.tiktok.com/@coptasapp)
+* `🎵` TikTok: [@coptasapp](null)
 * `🌐` Site web: [Cop Ta Sapp](https://cop-ta-sapp.fr)
